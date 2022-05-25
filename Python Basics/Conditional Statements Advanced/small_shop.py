@@ -41,4 +41,3 @@ elif city == 'Varna':
 
 price = price * quantity
 print(price)
-

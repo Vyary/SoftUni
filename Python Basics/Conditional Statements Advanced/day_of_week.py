@@ -16,4 +16,3 @@ elif day_of_the_week == '7':
     print('Sunday')
 else:
     print('Error')
-

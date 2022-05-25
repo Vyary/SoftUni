@@ -10,5 +10,3 @@ if 10 <= hour <= 18 and (day == 'Monday'
     print('open')
 else:
     print('closed')
-
-
