@@ -11,3 +11,4 @@ elif day_of_the_week == 'Saturday' \
     print('Weekend')
 else:
     print('Error')
+
