@@ -14,21 +14,17 @@ while movie != "Finish" and movie != "End":
     free_seats = seats
     while free_seats != 0:
         ticket_type = input()
+        total_movie += 1
+        total_tickets += 1
         if ticket_type == 'student':
             free_seats -= 1
             student_count_total += 1
-            total_movie += 1
-            total_tickets += 1
         elif ticket_type == 'standard':
             free_seats -= 1
             standard_count_total += 1
-            total_movie += 1
-            total_tickets += 1
         elif ticket_type == 'kid':
             free_seats -= 1
             kids_count_total += 1
-            total_movie += 1
-            total_tickets += 1
         else:
             break
 
