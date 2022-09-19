@@ -1,1 +1,5 @@
 print('Hello')
+
+var = 1
+
+print(var)
