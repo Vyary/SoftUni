@@ -7,3 +7,8 @@
 
 ## Topics
 First Steps in Coding
+Conditional Statements
+Conditional Statements Advanced
+For Loop
+While Loop
+Nested Loops
