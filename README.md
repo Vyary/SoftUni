@@ -3,16 +3,26 @@
 [![Visit school page](https://softuni.bg/content/images/svg-logos/software-university-logo.svg)](https://softuni.bg/)
 
 ## Course Summary
-"Programming Basics" course provides the initial programming skills necessary for all technology majors at Software University. This includes writing programming code at an entry level (basic coding skills), working with a development environment (IDE), using variables and data, operators and expressions, working with the console (reading input data and printing results), using conditional constructs (if, if-else) and loops (for, while, do-while).
+With "Programming Fundamentals", students begin to study SoftUni's in-house program for the comprehensive training of software engineers. The course examines fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Learners build on the knowledge gained in the Programming Basics course and begin to use more complex programming concepts and structures such as: arrays, sheets, objects and classes. Additional technologies needed by every software developer are studied, such as HTML and CSS, HTTP, bitwise operations, and more. The basics of web development are considered, as well as one of the most common technologies and tools, with which the course successfully builds an idea among students about the upcoming professional modules and knowledge.
 
 ## Topics
-* First Steps in Coding
-* Conditional Statements
-* Conditional Statements Advanced
-* For Loops
-* While Loops
-* Nested Loops
+* Basic Syntax, Conditional Statements and Loops
+* Git and GitHub
+* Data Types and Variables
+* HTTP Basics
+* Lists Basics
+* HTML & CSS Basics
+* Functions
+* Software Development Concepts
+* Lists Advanced
+* Objects and Classes
+* Dictionaries
+* Bitwise Operations
+* Text Processing
+* Problem Solving
+* Database Basics
+* Basic Web Project
 
 ## Details and Links
-Visit the course page: https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022  
-Online judging system: https://judge.softuni.org/Contests/#!/List/ByCategory/248/Python-Basics
+Visit the course page: https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022  
+Online judging system: https://judge.softuni.org/Contests/#!/List/ByCategory/191/Python-Fundamentals
