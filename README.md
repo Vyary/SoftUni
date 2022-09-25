@@ -14,5 +14,5 @@
 * Nested Loops
 
 ## Details and Links
-Visit the full course page: https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022
+Visit the course page: https://softuni.bg/trainings/3748/programming-basics-with-python-may-2022  
 Online judging system: https://judge.softuni.org/Contests/#!/List/ByCategory/248/Python-Basics
