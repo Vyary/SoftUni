@@ -38,7 +38,7 @@ while instruction != "Generate":
 print(f"Your activation key is: {raw_key}")
 
 
-"""                                Task:
+"""                          Task:
 You are about to make some good money, but first, you need to think of a way 
 to verify who paid for your product and who didn't. You have decided to let 
 people use the software for a free trial period and then require an activation
