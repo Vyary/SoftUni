@@ -3,8 +3,8 @@ def take_odd(text):
 
 
 def cut(text, index, length):
-    substring = text[index: index + length]
-    return text.replace(substring, '', 1)
+    substring = text[index : index + length]
+    return text.replace(substring, "", 1)
 
 
 def substitute(text, find, replace):
