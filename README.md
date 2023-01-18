@@ -1,4 +1,4 @@
-## Python Basics with SoftUni
+## Python Fundamentals with SoftUni
 
 [![Visit school page](https://softuni.bg/content/images/svg-logos/software-university-logo.svg)](https://softuni.bg/)
 
