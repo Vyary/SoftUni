@@ -45,5 +45,12 @@ Constraints
 •	There will never be more than 50 clothes in a box
 •	The capacity will be an integer in the range [0,20]
 •	None of the integers from the box will be greater than the value of
-the capacity
+the capacity.
+
+Example:
+Input:
+5 4 8 6 3 8 7 7 9
+16
+Output:
+5
 """

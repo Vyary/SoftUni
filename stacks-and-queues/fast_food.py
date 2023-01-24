@@ -47,4 +47,12 @@ Output:
 •	On the second line:
 o	If you succeeded in servicing all your clients, print: "Orders complete".
 o	Otherwise, print: "Orders left: {order1} {order2} .... {orderN}".
+
+Example:
+Input:
+348
+20 54 30 16 7 9
+Output:
+54
+Orders complete
 """

@@ -28,4 +28,20 @@ After you go through all the queries, print the stack from top to bottom in
 the following format:
 "{n}, {n1}, {n2}, ... {nn}"
 
+Example:
+Input:
+9
+1 97
+2
+1 20
+2
+1 26
+1 20
+3
+1 91
+4
+Output:
+26
+20
+91, 20, 26
 """
