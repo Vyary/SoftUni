@@ -33,9 +33,9 @@ print(index)
 
 
 """                     Task:
-There is a circle road with N petrol pumps. The petrol pumps are numbered 0 to (N−1)
+There is a circle road with N petrol pumps. The petrol pumps are numbered 0 to (N-1)
 (both inclusive). For each petrol pump, you will receive two pieces of information
-(separated by a single space): 
+(separated by a single space):
 -	The amount of petrol the petrol pump will give you
 -	The distance from that petrol pump to the next petrol pump (kilometers)
 You are a truck driver, and you want to go all around the circle. You know that the
@@ -58,6 +58,7 @@ Constraints
 •	1 ≤ amount of petrol, distance ≤ 1000000000
 •	You will always have at least one point from where the truck will be able to
 complete the circle
+
 Examples:
 Input:          Output:
 3               1
@@ -71,5 +72,4 @@ Input:          Output:
 52 7
 21 12
 36 9
-
 """
