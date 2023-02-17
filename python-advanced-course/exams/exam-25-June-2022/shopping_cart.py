@@ -76,7 +76,7 @@ return just its name in the format shown above.
 return the message: "No products in the cart!"
 
 Example:
-Input:
+Test Code:
 print(shopping_cart(
     ('Pizza', 'ham'),
     ('Soup', 'carrots'),
