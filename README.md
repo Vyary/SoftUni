@@ -7,6 +7,8 @@ That's why we use the learning-by-doing model, providing our students with progr
 
 ## Courses taken so far:
 
+[Python OOP](https://github.com/Vyary/SoftUni/tree/main/python-OOP-course)
+--------
 [Python Advanced](https://github.com/Vyary/SoftUni/tree/main/python-advanced-course)
 --------
 [Python Fundamentals](https://github.com/Vyary/SoftUni/tree/main/python-fundamentals-course)
