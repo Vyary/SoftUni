@@ -5,7 +5,6 @@ class SteamUser:
         self.played_hours = 0
 
     def play(self, game, hours):
-
         if game in self.games:
             self.played_hours += hours
 
@@ -14,7 +13,6 @@ class SteamUser:
         return f"{game} is not in library"
 
     def buy_game(self, game):
-
         if game not in self.games:
             self.games.append(game)
 
@@ -23,6 +21,7 @@ class SteamUser:
         return f"{game} is already in your library"
 
     def status(self):
+        
         return (
             f"{self.username} has {len(self.games)} games. "
             f"Total play time: {self.played_hours}"
