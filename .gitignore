@@ -41,3 +41,4 @@ env.bak/
 venv.bak/
 
 .vscode
+*.zip
