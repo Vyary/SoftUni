@@ -1,8 +1,3 @@
-import sys
-
-sys.path.append(
-    "e:\\Things\\Code\\SoftUni\\python-OOP-course\\exams\\14-august-2022\\tests"
-)
 from project.bookstore import Bookstore
 from unittest import TestCase, main
 
